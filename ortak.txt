@@ -1,1 +1,4 @@
-Bu satır exercise-3 tarafından değiştirildi
+
+=======
+Bu satır konf-2 tarafından değiştirildi
+>>>>>>> c44f42abbb74b6298c0a9124039fb38d2c810160
